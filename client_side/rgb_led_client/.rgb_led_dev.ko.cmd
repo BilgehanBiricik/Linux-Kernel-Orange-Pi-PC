@@ -1,1 +1,0 @@
-cmd_/home/nativecore/client_side/rgb_led_client/rgb_led_dev.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -T ./arch/arm/kernel/module.lds -o /home/nativecore/client_side/rgb_led_client/rgb_led_dev.ko /home/nativecore/client_side/rgb_led_client/rgb_led_dev.o /home/nativecore/client_side/rgb_led_client/rgb_led_dev.mod.o ;  true
